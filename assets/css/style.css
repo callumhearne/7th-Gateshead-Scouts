@@ -68,9 +68,6 @@ h2 {
 
 /* Footer */
 
-.social-networks {
-  text-align: center;
-}
 
 .social-networks li {
   display: inline;
@@ -88,8 +85,8 @@ h2 {
 
     background: #177038;
     height: 170px;
-    text-align: center;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    text-align: center;
 
 }
 
@@ -103,21 +100,29 @@ height: 300px;
 
 .my-col {
 
-    border: 5px solid black;
+    border: 2px solid black;
 }
 
 /* First page Scouting text */
 
 .container-fluid-bg-scouting {
 
-    height: 50px;
+    height: 200px;
+    text-align: center;
 
 }
 
 .page1-description1-col {
 
-    height: 50px;
+    height: 200px;
     background: #177038;
+    padding-top: 10px;
 
+
+}
+
+hr {
+
+border: 1px solid white;
 
 }
