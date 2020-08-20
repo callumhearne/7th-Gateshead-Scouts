@@ -87,6 +87,9 @@ h2 {
     height: 170px;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
 
 }
 
@@ -107,14 +110,14 @@ height: 300px;
 
 .container-fluid-bg-scouting {
 
-    height: 200px;
+    height: 300px;
     text-align: center;
 
 }
 
 .page1-description1-col {
 
-    height: 200px;
+    height: 300px;
     background: #177038;
     padding-top: 10px;
 
