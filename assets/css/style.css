@@ -109,6 +109,7 @@ height: 400px;
 }
 
 .scoutbanner {
+
   background-image: url("../images/scoutsbanner.jpg");
   background-color: #cccccc;
   height: 400px;
@@ -194,25 +195,45 @@ color: #747373;
 
 .container-fluid-bg-upcoming-events {
 
-    height: 235px;
+    height: 230px;
     text-align: center;
+    background-image: url("../images/winningscouts.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
 
 }
 
 .upcoming-events-col {
 
     height: 228px;
-    background: #177038;
+    background: rgba(133, 233, 131, 0.9);;
     padding-top: 10px;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border: 1px solid white;
     overflow: auto;
+    
 
 }
 
 h4 {
 
     color: white;
+}
+
+
+/* Second page Image */
+
+.page2-image {
+
+  background-image: url("../images/Palacecropped.jpg");
+  background-color: #cccccc;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
+
 }
 
 /* Third page hr */
