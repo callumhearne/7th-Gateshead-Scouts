@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap");
+ @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap");
 
 *{
   margin: 0;
@@ -6,71 +6,75 @@
   border: 0;
 }
 
-a { 
-
-color: white
-
-}
-
-
 p {
 
     margin: 0px;
-    color: white;
+    margin-bottom: 10px;
+
 
 }
 
-h3 {
+h2 {
 
-    color: white;
-    padding-top: 5px;
+    padding-top: 15px;
+}
+
+hr {
+
+   background: black;
+   height: 1px;
+   width: 50%;
+
+}
+
+a,a:visited,a:hover,a:active{
+  -webkit-backface-visibility:hidden;
+          backface-visibility:hidden;
+	position:relative;
+  transition:0.5s color ease;
+	text-decoration:none;
+	color:black;
+	font-size:1rem;
+}
+a:hover{
+	color:#d73444;
+}
+a.before:before,a.after:after{
+  content: "";
+  transition:0.5s all ease;
+  -webkit-backface-visibility:hidden;
+  backface-visibility:hidden;
+  position:absolute;
+}
+a.before:before{
+  top:-0.25em;
+}
+a.after:after{
+  bottom:-0.25em;
+}
+a.before:before,a.after:after{
+  height:5px;
+  height:0.35rem;
+  width:0;
+  background:#d73444;
+}
+
+a.first:after{
+  left:0;
 }
 
 /* Header */
 
-.container-fluid-bg {
-    background: #177038;
-    height: 80px;
-    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
+.nav-colour {
 
-h2 {
-  font-family: Oswald;
-  text-transform: uppercase;
-  letter-spacing: 4px;
-  color: white;
-  padding-top: 15px;
-}
-
-#logo {
-  text-align: center;
-  font-size: 280%;
-  margin-left: 30px;
-}
-
-#menu {
-  font-size: 110%;
-  list-style-type: none;
-  letter-spacing: 4px;
-}
-
-#menu li {
-  float: right;
-  margin-right: 30px;
+  background-color: #177038;
 
 }
 
-#menu a {
-  text-decoration: none;
-  color: inherit;
-}
+.navbar {
 
-#menu a:hover {
-  border-bottom: 1px solid #777777;
-}
+ height: 60px;
 
-.active {
-  border-bottom: 1px solid #777777;
 }
 
 /* Footer */
@@ -97,98 +101,71 @@ h2 {
     left: 0;
     bottom: 0;
     width: 100%;
+    color: white;
 
 }
 
-/* Image First Page */
-
-.container-fluid-bg-scoutspalace {
-
-height: 400px;
-
-}
-
-.scoutbanner {
-
-  background-image: url("../images/scoutsbanner.jpg");
-  background-color: #cccccc;
-  height: 400px;
-  background-position: center;
-  background-repeat: no-repeat; 
-  background-size: cover;
-
-}
-
-.my-col {
-
-    border: 2px solid black;
-}
-
-/* First page Scouting text */
-
-.container-fluid-bg-scouting {
-
-    height: 300px;
-    text-align: center;
-
-}
-
-.page1-description1-col {
-
-    height: 300px;
-    background: #177038;
-    padding-top: 10px;
-    overflow: auto;
+/* Images First Page */
 
 
+.jumbotron-1 {
 
-}
-
-hr {
-
-    border: 1px solid white;
-    text-align: center;
-
-}
-
-.link {
-
-text-decoration: underline;
-
-}
-
-
-/* First page Scouting Video */
-
-.container-fluid-iframe {
-
-    height: 500px;
-    text-align: center;
+    background: url("../images/scoutsbanner.jpg") no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
     position: relative;
 
 }
 
-.page1-video {
 
-    height: 500px;
-    border: 1px solid white;
+
+.jumbotron-2 {
+
+    background: url("../images/mael-balland-KqbPQzD2R5o-unsplash.jpg") no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    position: relative;
+
 }
 
-/* Second page Title */
 
+/* First page Scouting text */
 
-.container-fluid-bg-page-2-title {
+.what-is-scouting {
 
-text-align: center;
-
-
+   color: black;
+   margin-bottom: 50px;
+   margin-top: 50px;
 
 }
 
-.page2-title {
 
-color: #747373;
 
+/* First page Scouting Video */
+
+.iframe-container{
+
+  width: 100%;
+  height: 600px;
+  margin-bottom: 30px;
+
+}
+.iframe-container iframe{
+
+  width: 100%;
+  height: 100%;
 }
 
 /* Second page Events */
@@ -225,14 +202,20 @@ h4 {
 
 /* Second page Image */
 
-.page2-image {
+.jumbotron-3 {
 
-  background-image: url("../images/Palacecropped.jpg");
-  background-color: #cccccc;
-  height: 400px;
-  background-position: center;
-  background-repeat: no-repeat; 
-  background-size: cover;
+    background: url("../images/Palace.jpg") no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    position: relative;
+
+}
 
 }
 
