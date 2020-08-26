@@ -38,3 +38,33 @@ Returning user
 Tablet user
 
 - I am a table user and I found the website was very responsive.
+
+Design Process
+
+Strategy plane:
+
+Scope plane:
+
+Structure plane:
+
+Skeleton plane:
+
+Surface plane:
+
+Wireframing my project on figma
+
+Design on desktop
+
+
+
+Link to my Figma
+https://www.figma.com/file/7kE3g8mC9nmEaxhjXDwdJk/7th-Gateshead-First-Assignment?node-id=0%3A1
+
+Features
+
+Cosistent features across all pages:
+Home:
+7th Gateshead:
+Calandar:
+
+Technology Used
