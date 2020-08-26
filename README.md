@@ -67,4 +67,11 @@ Home:
 7th Gateshead:
 Calandar:
 
-Technology Used
+Technology used
+Additional technology used
+
+Testing:
+
+Deploying my project:
+
+
