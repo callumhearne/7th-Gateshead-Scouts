@@ -29,14 +29,14 @@ HTML
 To validate my HTML I used the W3C markup validation service.
 
 Index.html errors:
-- P element was included with no end tag (fixed)
-- Frameborder element was obsolete (fixed)
+- P element was included with no end tag. I fixed this by removing the P element.
+- Frameborder element was obsolete. I fixed this by removing the border style.
 
 7thpage.html errors:
-- An error wad found having 2 img elements in the same tag (fixed)
+- An error wad found having 2 img elements in the same tag. I fixed by removing the obsolete img element.
 
 Events.html:
-- An error wad found having 2 img elements in the same tag (fixed)
+- An error wad found having 2 img elements in the same tag. I fixed by removing the obsolete img element.
 
 CSS
 -
