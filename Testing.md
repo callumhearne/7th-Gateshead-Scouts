@@ -1,5 +1,5 @@
 Testing 
-
+-
 The testing process I went through is listed below:
 - Testing user stories.
 - Validating the code.
@@ -7,7 +7,7 @@ The testing process I went through is listed below:
 - Manually testing the websites features.
 
 Testing user stories
-
+-
 Project Stakeholders:
 - The 7th's Group leader wanted a website that offers a small introduction into what scouts is and what the 7th offers. I have included and a small section on scouting with a promo video and a page showing what the 7th do and what events they go to.
 
@@ -19,7 +19,7 @@ Returning users:
 - The first user returns to the website to keep up to date with the groups events. I have included a calandar so that users are able to keep up to date with all of the events going on.
 - The second returning used the website to record what events were coming up to keep up to date with them. I have included the diary for at least 6 months in advance so that the users know what is happening very far in advance.
 
-Tablet user
+Tablet user:
 - The tablet user wanted the website to be responsive on a tablet so that they could use it on their tablet. I have made the website so that it is responsive on tablets and phones as well as desktops.
 
 Validating the the HTML and CSS
