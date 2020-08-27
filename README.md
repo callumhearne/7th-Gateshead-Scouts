@@ -12,8 +12,8 @@ Here is a link to my live website  https://callumhearne.github.io/7th-Gateshead-
 UX
 -
 
-Main aims
-#
+# Main aims
+
 
 - To provide knowledge into what Scouts as a whole is about.
 - To provide knowledge into what the 7th offers to new Scouts.
@@ -24,22 +24,22 @@ Main aims
 User Stories
 -
 
-Project Stackholder:
+# Project Stackholder:
 
 - I am the creator of the project and also a leader at the scout group. I would like the website to help attract potential scouts to our group.
 - I am the group leader at the 7th Gateshead Scouts and I would like this this website to help introduce new scouts to the scouting organisation as a whole as well as my group
 
-New users
+# New users
 
 - I am a user who heard about the 7th through another parents at school and decided to check the website to see who what the group involves and what sort of events they hold.
 - I am a user who was searching for a local scout group to enlist my son in and found the 7th's group website where I was able to have an insight into the group.
 
-Returning user
+# Returning user
 
 - I am a returning user who has returned to the website to check the calendar to make sure that my kids don't miss out on any of the events coming up.
 - I am a returning user that users the website to keep up to date with all the activites happening.
 
-Tablet user
+# Tablet user
 
 - I am a table user and I want to able to use the website perfectly on my tablet.
 
