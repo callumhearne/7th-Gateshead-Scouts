@@ -90,18 +90,65 @@ Calandar:
 
 Technology used
 -
-
+- HTML5
+   - HTML5 was used to create and add content to the website.
+- CSS3
+   - CSS3 was used to style all of the HTML5 to match my design.
+- JavaScript
+   - JaveScript was used to help make my nav bar repsonsive.
+- Bootstrap framework
+   - Bootstrap was used to create the nav bar, footer, cards, and containers for the website.
+- Gitpod
+   - Gitpod was used as a space for me to be able to code and test my website.
+- GitHub
+   - GitHub was used to host my website and store all of my code
+   
 Additional technology used
 -
-*
+- Figma
+   - Figma was used so that I can design my website before I started to make it.
+- FontAwesome
+   - I used FontAwesome to get the icons for my social media links.
+- Google Fonts
+   - I used google fonts to set the fonts for my website (roboto).
+
 Testing:
 -
+
 Deploying my project:
 -
-Cloning my project:
+I created my project on GitHub and coded it on Gitpod. The following link wil take you to me live project. https://callumhearne.github.io/7th-Gateshead-Scouts/
+
+Deploying to GitHub
 -
+To deploy my work on GitHub I did the following:
+1. I opened up my settings.
+2. Scrolled down to "GitHub Pages" section.
+3. From here, I selected the "master branch" as my source.
+4. Then selected "save".
+
 Credits:
 -
+Content
+-
+All of the content was fictional and made up by me apart from the name of the scout group and the names of events.
+Images
+-
+7th Gateshead :
+- The first photo on the Homepage and 7th page were sent in by the group leader.
+Unsplash :
+- The Images used for the bottom of the Homepage and cards were from the Unsplash website.
+
+Video
+-
+Youtube : 
+- The promo video was taken directly from the scouts youtube channel. Here is the link to the video https://www.youtube.com/watch?v=Jlrimx5fjTQ.
+
+
 Acknowlegdements:
 -
+Thank you to the following people who helped with support and guidance at different stages in the project:
 
+- The guidance and support of my mentor Seun Owonikoko.
+- The supportive Code Institute community, including my fellow students and the tutor support team.
+- The 7th Group for allowing me to use the group name and photos.
