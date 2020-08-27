@@ -20,8 +20,8 @@ Main aims
 
 User Stories
 
-Project Stackholder
-
+Project Stackholder:
+-
 - I am the creator of the project and also a leader at the scout group. I would like the website to help attract potential scouts to our group.
 - I am the group leader at the 7th Gateshead Scouts and I would like this this website to help introduce new scouts to the scouting organisation as a whole as well as my group
 
@@ -40,6 +40,7 @@ Tablet user
 - I am a table user and I found the website was very responsive.
 
 Design Process
+-
 
 Strategy plane:
 
@@ -53,16 +54,21 @@ Surface plane:
 
 Wireframing my project on figma
 
-
-
-
+Before I started to create my website on Github/Gitpod I first designed it on Figma so that I had an idea on what I was creating and how I was going to create. This allowed me to have an understanding of the tools I was going to use before I made it.
 
 Link to my Figma
 https://www.figma.com/file/7kE3g8mC9nmEaxhjXDwdJk/7th-Gateshead-First-Assignment?node-id=0%3A1
 
 Features
 
+The website consits of 3 pages. Each page has a nav bar to be able to navigate between the pages
+
 Cosistent features across all pages:
+
+-
+
+
+
 Home:
 7th Gateshead:
 Calandar:
