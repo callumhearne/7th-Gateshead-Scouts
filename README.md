@@ -47,15 +47,19 @@ Here is a link to my live website  https://callumhearne.github.io/7th-Gateshead-
 # Design Process
 
 
-1. Strategy plane: From the beginning of the project I knew I wanted to make a simple website that had all the necessary information included to inform the users about the 7th Gateshead Scouts Group. I also aimed for this project to be a website that members of the group can also use to keep up to date with what is going on with the group and what events are happening.
+1. Strategy plane: From the beginning of the project I knew I wanted to make a simple website that had all the necessary information included to inform the users about the 7th Gateshead Scouts Group. I also aimed for this project to be a website that members of the group can also use to keep up to date with what is going on with the group and what events are happening. I started the UX planning by asking the group leader what sort of questions he gets asked by newcomers so I can.
 
 2. Scope plane: After deciding what I wanted my website to be for this project I then began to plan on what key features I would use to achieve my goal. To decide what I wanted I had a look at what I could with what I had learnt from CSS, HTML5 and Bootstrap and decided to make a calandar for users to keep up to date with events, images showing the scout group, a promo video showing new users what scouts are about and sections describing what scouts and what the 7th are about.
 
 3. Structure plane: Now that I knew what I wanted for the website I needed to decide what I wanted on each page. I decided for the first page that I would include a small introdution into scouts with a small paragraph on what scouts is, how big the community and a short promo video. I didnt want to make this section too big as it was not the main focus of the website. After that I added a small introduction into the 7th. On the second page I wanted to deicate this page to the 7th starting with a big image of the 7th's scouts followed by a section describing what the weekly meetings entail and what sort of other activites the 7th get involved in. I added a little upcoming events section to the page to show a little into what the group is doing. This meets one of aims of informing new people about who the 7th are. For the finally page I made a calandar listing all of the upcoming events and have descriptons for all of them as this meets my other aim of the current group members being able to keep up to date and aware of upcoming events.
 
-4. Skeleton plane: To navigate the menu I have decided on using a simple nav bar at the top of the page. I decided that this was the best thing to do as the website is very simple and doesn't need any complexity to the navigation.
+4. Skeleton plane: To navigate the menu I have decided on using a simple nav bar at the top of the page. I decided that this was the best thing to do as the website is very simple and doesn't need any complexity to the navigation. I prioritised having a small introduction into the scouts so that new users are brought up to speed straight away and is on the same page as everyone before looking at the rest of the website. 
 
-5. Surface plane:
+5. Surface plane: For the colour scheme I decided on a the Groups traditional Green. I decided to use the green on the header and footer while useing white with black text for the core of the website. I did this because I didn't want the colours to be overpowering for the user while still adding some of the 7th's personality to the website.
+
+With this in mind I started to plan my website on figma testing out the colour scheme. When designing the calendar cards I first though of using the same green as the heaer and footer but thought this was overpowering so opted for a lighter green making the page feel more inviting.
+
+I then went on to Google fonts to deicde on what sort of fonts I was looking for. I deicded are Roboto as i felt it was a very easy font to read and I was in no need of a fancy font because I was prioritising functionality over style.
 
 # Wireframing my project on figma
 
