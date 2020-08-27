@@ -33,10 +33,16 @@ Index.html errors:
 - Frameborder element was obsolete (fixed)
 
 7thpage.html errors:
--
+
 
 Events.html:
+
+CSS
 -
+To validate my CSS I used the W3C markup validation service.
+
+style.css:
+- No errors found
 
 Responsiveness
 -
