@@ -22,9 +22,9 @@ Here is a link to my live website  https://callumhearne.github.io/7th-Gateshead-
 - To create a website that keeps parents up to with events coming up.
 
 # User Stories
--
 
-# Project Stackholder:
+
+## Project Stackholder:
 
 - I am the creator of the project and also a leader at the scout group. I would like the website to help attract potential scouts to our group.
 - I am the group leader at the 7th Gateshead Scouts and I would like this this website to help introduce new scouts to the scouting organisation as a whole as well as my group
