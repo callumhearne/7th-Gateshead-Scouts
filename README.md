@@ -1,5 +1,5 @@
 # 7th Gateshead Scouts
--
+
 
 7th Gateshead Scouts is my local scout group where I help as a Cub leader. Currently the scout group does not have a website to advertise exactly what the group offers in terms of activities and experiences. My aim for this project is to create a website for the 7th Gateshead Scouts so that they are able to advertise the group.
 
@@ -10,7 +10,7 @@ This is my first of four milestone projects that make up my Full Stack Web Devel
 Here is a link to my live website  https://callumhearne.github.io/7th-Gateshead-Scouts/
 
 # UX
--
+
 
 ## Main aims
 
@@ -44,27 +44,27 @@ Here is a link to my live website  https://callumhearne.github.io/7th-Gateshead-
 - I am a table user and I want to able to use the website perfectly on my tablet.
 
 # Design Process
--
 
-## Strategy plane:
 
-## Scope plane:
+Strategy plane:
 
-## Structure plane:
+Scope plane:
 
-## Skeleton plane:
+Structure plane:
+
+Skeleton plane:
 
 Surface plane:
 
 # Wireframing my project on figma
--
+
 Before I started to create my website on Github/Gitpod I first designed it on Figma so that I had an idea on what I was creating and how I was going to create. This allowed me to have an understanding of the tools I was going to use before I made it.
 
 Link to my Figma
 https://www.figma.com/file/7kE3g8mC9nmEaxhjXDwdJk/7th-Gateshead-First-Assignment?node-id=0%3A1
 
 # Features
--
+
 The website consits of 3 pages. Each page has a nav bar to be able to navigate between the pages.
 
 ## Cosistent features across all pages:
@@ -89,7 +89,7 @@ The website consits of 3 pages. Each page has a nav bar to be able to navigate b
 - There is another title splitting up 2020 events from 2021.
 
 # Technology used
--
+
 - HTML5
    - HTML5 was used to create and add content to the website.
 - CSS3
@@ -104,7 +104,7 @@ The website consits of 3 pages. Each page has a nav bar to be able to navigate b
    - GitHub was used to host my website and store all of my code
    
 # Additional technology used
--
+
 - Figma
    - Figma was used so that I can design my website before I started to make it.
 - FontAwesome
@@ -113,11 +113,11 @@ The website consits of 3 pages. Each page has a nav bar to be able to navigate b
    - I used google fonts to set the fonts for my website (roboto).
 
 # Testing:
--
+
 All of the testing is on a seperate document. This is the link https://github.com/callumhearne/7th-Gateshead-Scouts/blob/master/Testing.
 
 # Deploying my project:
--
+
 I created my project on GitHub and coded it on Gitpod. The following link wil take you to me live project. https://callumhearne.github.io/7th-Gateshead-Scouts/
 
 ## Deploying to GitHub
@@ -129,7 +129,7 @@ To deploy my work on GitHub I did the following:
 4. Then selected "save".
 
 # Credits:
--
+
 ## Content
 
 All of the content was fictional and made up by me apart from the name of the scout group and the names of events.
@@ -148,7 +148,7 @@ Youtube :
 
 
 # Acknowlegdements:
--
+
 Thank you to the following people who helped with support and guidance at different stages in the project:
 
 - The guidance and support of my mentor Seun Owonikoko.
