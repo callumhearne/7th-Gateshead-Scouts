@@ -33,9 +33,10 @@ Index.html errors:
 - Frameborder element was obsolete (fixed)
 
 7thpage.html errors:
-
+- An error wad found having 2 img elements in the same tag (fixed)
 
 Events.html:
+- An error wad found having 2 img elements in the same tag (fixed)
 
 CSS
 -
