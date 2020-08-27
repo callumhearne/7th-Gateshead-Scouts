@@ -27,18 +27,33 @@ hr {
 
 }
 
+.email {
+
+    color: white;
+}
+
+.email:hover {
+
+    font-size: 1.25rem;
+    color: white;    
+}
+
+.link {
+
+    color: black;
+}
+
+.link:hover {
+
+    font-size: 1.25rem;
+    color: black;    
+}
 
 /* Header */
 
 .nav-colour {
 
   background-color: #177038;
-
-}
-
-.navbar {
-
- height: 60px;
 
 }
 
