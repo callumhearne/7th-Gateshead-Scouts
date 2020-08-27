@@ -13,7 +13,7 @@ UX
 -
 
 Main aims
--
+#
 
 - To provide knowledge into what Scouts as a whole is about.
 - To provide knowledge into what the 7th offers to new Scouts.
