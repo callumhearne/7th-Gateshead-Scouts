@@ -7,11 +7,7 @@
 }
 
 p {
-
     margin: 0px;
-
-
-
 }
 
 h2 {
@@ -20,45 +16,38 @@ h2 {
 }
 
 hr {
-
    background: black;
    height: 1px;
    width: 50%;
-
 }
 
 .email {
-
     color: white;
 }
 
 .email:hover {
-
-    font-size: 1.25rem;
-    color: white;    
+    color: blueviolet;    
 }
 
 .link {
-
     color: black;
 }
 
 .link:hover {
-
-    font-size: 1.25rem;
-    color: black;    
+    color: blueviolet;    
 }
 
+.row {
+    width: inherit;
+}
 /* Header */
 
 .nav-colour {
-
   background-color: #177038;
-
 }
 
-/* Footer */
 
+/* Footer */
 
 .social-networks li {
   display: inline;
@@ -70,11 +59,12 @@ hr {
   margin-right: 25px;
   color: white;
   margin-top: 20px;
- 
+}
+.social-networks i:hover {
+    color: blueviolet;
 }
 
 .container-fluid-bg-footer {
-
     background: #177038;
     height: 210px;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -84,22 +74,17 @@ hr {
     width: 100%;
     color: white;
     padding-top: 20px;
-
 }
 
 .email {
-
    color: white;
    margin-bottom: 10px;
-
-
 }
 
 /* Images First Page */
 
 
 .jumbotron-1 {
-
     background: url("../images/scoutsbanner.jpg") no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -116,7 +101,6 @@ hr {
 
 
 .jumbotron-2 {
-
     background: url("../images/mael-balland-KqbPQzD2R5o-unsplash.jpg") no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -127,31 +111,25 @@ hr {
     justify-content: center;
     height: 50vh;
     position: relative;
-
 }
 
 
 /* First page Scouting text */
 
 .what-is-scouting {
-
    color: black;
    margin-bottom: 50px;
    margin-top: 50px;
-
 }
 
 /* First page Scouting Video */
 
 .iframe-container{
-
   width: 100%;
   height: 600px;
   margin-bottom: 30px;
-
 }
 .iframe-container iframe{
-
   width: 100%;
   height: 100%;
 }
@@ -159,7 +137,6 @@ hr {
 /* Second page Events */
 
 .container-fluid-bg-upcoming-events {
-
     height: 230px;
     text-align: center;
     background-image: url("../images/winningscouts.jpg");
@@ -167,23 +144,18 @@ hr {
     background-position: center;
     background-repeat: no-repeat; 
     background-size: cover;
-
 }
 
 .upcoming-events-col {
-
     height: 228px;
     background: rgba(133, 233, 131, 0.9);
     padding-top: 10px;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border: 1px solid white;
     overflow: auto;
-    
-
 }
 
 h4 {
-
     color: white;
 }
 
@@ -191,7 +163,6 @@ h4 {
 /* Second page Image */
 
 .jumbotron-3 {
-
     background: url("../images/Palace.jpg") no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -202,44 +173,36 @@ h4 {
     justify-content: center;
     height: 70vh;
     position: relative;
-
 }
 
-}
 
 /* Third page hr */
 
 .page3hr {
-
     border: 1px solid #747373;
     width: 100%;
-
 }
 
 /* Page 3 Events */
 
 .page3-description1-col {
-
     height: 300px;
     background: #177038;
     padding-top: 10px;
     overflow: auto;
     border: 1px solid white;
-
 }
 
 /* Links */
 
 a {
-
   margin-bottom: 10px;
-
 }
 
 /* Event cards */
 
 .card_1 {
-    background-color:  rgba(133, 233, 131, 0.9);
+    background-color:  rgba(115, 197, 113, 0.9);
     border: 1px;
     margin: 1px;
     align-items: center;
@@ -248,30 +211,25 @@ a {
 }
 
 .card-title {
-
 text-align: center;
 margin: 10px;
-
+text-decoration-line: underline;
 }
 
 .card-text {
-
     color: white;
     margin: 10px;
     text-align: center;
 }
 
 .card-block {
-
     margin: 15px;
     align-items: center;
-
 }
 
 /* Upcoming Events title */
 
 .container-fluid-bg-page-2-title {
-
     text-align: center;
     margin-bottom: 25px;
 }
