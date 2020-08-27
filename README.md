@@ -1,5 +1,6 @@
 # 7th Gateshead Scouts
 
+![image of my website](https://github.com/callumhearne/7th-Gateshead-Scouts/blob/master/Capture.JPG)
 
 7th Gateshead Scouts is my local scout group where I help as a Cub leader. Currently the scout group does not have a website to advertise exactly what the group offers in terms of activities and experiences. My aim for this project is to create a website for the 7th Gateshead Scouts so that they are able to advertise the group.
 
