@@ -39,7 +39,7 @@ Tablet user
 
 - I am a table user and I found the website was very responsive.
 
-#Design Process#
+#Design Process
 
 Strategy plane:
 
