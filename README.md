@@ -41,7 +41,7 @@ Returning user
 
 Tablet user
 
-- I am a table user and I found the website was very responsive.
+- I am a table user and I want to able to use the website perfectly on my tablet.
 
 Design Process
 -
