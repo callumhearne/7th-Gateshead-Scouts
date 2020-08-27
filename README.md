@@ -114,6 +114,7 @@ Additional technology used
 
 Testing:
 -
+All of the testing is on a seperate document. This is the link https://github.com/callumhearne/7th-Gateshead-Scouts/blob/master/Testing.
 
 Deploying my project:
 -
